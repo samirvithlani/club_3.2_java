@@ -1,0 +1,56 @@
+java
+  -util
+  -lang
+  -sql
+  -io
+  
+  
+  
+  data type:
+  
+   premitive data type												non-premitive data type
+
+																		 array			
+non numric data       numric data										 string... etc..	
+
+char    :''       Integeral type   Floating point 
+boolean : false   
+                     byte             float
+                     short            double
+                     int
+                     long  
+  
+  
+  
+  
+  encpasulation
+   class object
+   constructor, data hiding, access modifiers,non access modifiers
+  
+  class : object
+  
+  class : class is collection of data member and member functions | class is blue print of an object
+  object: object is an real world entity of class | identity of class
+  
+  School class --> students,fac,mang,.///
+  Product class -> color,price,.....
+  
+  
+  class arch respect to JVM:
+  
+  
+  inheritacnce
+  :	
+  polymorephisam
+  : compile | run 
+  		method overloading | method overriding
+  abstraction
+  	abstract class| interface
+  	
+  	
+  	
+  	
+  
+  
+  
+  
