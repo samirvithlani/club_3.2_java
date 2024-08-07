@@ -48,6 +48,23 @@ boolean : false
   	abstract class| interface
   	
   	
+polymorephisam:
+
+many form of function
+compile time :
+	overloading
+run time 
+	method overriding
+	
+	
+method overloading
+same name of function with diff argument with diff data type	
+
+
+
+  	
+  	
+  	
   	
   	
   
