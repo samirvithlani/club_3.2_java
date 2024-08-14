@@ -61,6 +61,18 @@ method overloading
 same name of function with diff argument with diff data type	
 
 
+method overriding:
+
+parent class method create in child class with same signature called method overriding...
+
+signature:
+name
+access | non access modifiers
+param
+return type
+
+
+
 
   	
   	
