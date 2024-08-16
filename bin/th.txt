@@ -83,6 +83,17 @@ abscract class : abstract method
 interface:
 
 
+
+
+non access modifiers
+Static : 
+Final  :
+Abstract :
+Synchronized : thread
+transient : 
+strictfp  :
+native    :
+
   	
   	
   	
