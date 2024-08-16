@@ -73,6 +73,15 @@ return type
 
 
 
+abstraction:
+hide specfic data
+
+
+exam paper : -->
+abstraction : 
+abscract class : abstract method
+interface:
+
 
   	
   	
