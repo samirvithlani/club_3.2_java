@@ -94,6 +94,40 @@ transient :
 strictfp  :
 native    :
 
+----------------------------------------
+
+create 2 methods...
+1st method
+get data from user 5 elements store in array
+2nd method
+printy data available in array..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   	
   	
   	
