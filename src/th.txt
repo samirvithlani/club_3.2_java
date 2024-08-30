@@ -103,6 +103,10 @@ get data from user 5 elements store in array
 printy data available in array..
 
 
+//royal time table..
+Monday -->java,cpp
+Tuesaday -->java,python
+
 
 
 
