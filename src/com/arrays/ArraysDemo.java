@@ -21,4 +21,9 @@ public class ArraysDemo {
 			System.out.println(i);
 		}
 	}
+	
+	//public int[] copyOf(int a[],no){
+	// loop --> 1 -> 1-> new array ->put --> rttuen
+	//}
+	//
 }
