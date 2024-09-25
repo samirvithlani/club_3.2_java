@@ -108,6 +108,14 @@ Monday -->java,cpp
 Tuesaday -->java,python
 
 
+Wrapper :all data type have it wrapper class...
+int Integer
+float Float
+
+
+
+
+
 
 
 
