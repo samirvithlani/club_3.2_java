@@ -114,6 +114,64 @@ float Float
 
 
 
+exception handling....
+Exception                                    Error
+
+exception will stop continues    Error is syntax issue... 
+flow of your program
+
+
+compile time and runtime exception
+checked exception | unchecked exception
+
+run time exception : developer logical issue,
+hardware issue memory isuee..
+
+
+error must resolve..
+and exception have to handle...
+
+									Throwable[c]
+				
+				Exception[c]                                 Error[c]
+				   RunTimeException[c]                          
+				      .
+				      .
+				       
+				   IoException[c]
+				      .
+				      .
+				      .
+				      .					
+									
+
+how to handle exception:
+1) using try catch and finally block..
+2) using throws keyword...
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
