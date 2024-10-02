@@ -148,6 +148,13 @@ and exception have to handle...
 how to handle exception:
 1) using try catch and finally block..
 2) using throws keyword...
+
+
+checked exception:
+
+compile time exception:
+
+any builtin method or udf methods throws xception then we have to handle that exception
 									
 
 
