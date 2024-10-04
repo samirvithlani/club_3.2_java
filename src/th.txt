@@ -154,7 +154,7 @@ checked exception:
 
 compile time exception:
 
-any builtin method or udf methods throws xception then we have to handle that exception
+any builtin method or udf methods throws exception then we have to handle that exception
 									
 
 
