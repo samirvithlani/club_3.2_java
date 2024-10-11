@@ -40,7 +40,7 @@ public class ExceptionDemo8 {
 		e8.checkAge();
 		}catch (InvalidAgeException e) {
 			//e.printStackTrace();
-			System.out.println(e.getMessage());
+			System.out.println();
 		}
 		
 		
