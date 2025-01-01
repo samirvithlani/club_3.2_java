@@ -161,6 +161,37 @@ stream | byte              word line to
 Stream                     Reader | Writer
 
 
+								Thread
+
+process based prog
+	1 process starts --> complate --> process start...
+thread based prog
+	1 -- >process -->2 start...
+	
+
+
+
+eclipse:- 200 mb memory : android stu: - 1 gb memory :
+
+CPU :- Schedualr concept:
+
+
+java multi threading application:
+
+main method --> thread...
+
+
+Runnable INterface --> impl --> functional interface public void run();
+Thread Class.. :--> extened : thread
+
+
+	
+
+
+
+
+
+	
 
 
 
@@ -170,49 +201,8 @@ Stream                     Reader | Writer
 
 
 
+								
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  	
-  	
-  	
-  	
-  	
-  
-  
-  
   
