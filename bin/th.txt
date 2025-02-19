@@ -185,6 +185,29 @@ Runnable INterface --> impl --> functional interface public void run();
 Thread Class.. :--> extened : thread
 
 
+
+---------------------------------------------------------------------------------------
+Collection Framework:
+Array: to store elements
+									Iterable
+									
+									Collection
+
+	List -i                      Set-i                        Map-i                          Queue-i
+	ArrayList                    TreeSet                     TreeMap						PriorityQueue
+	Vector						 HashSet                     HashMap						Deque
+	LinkedList																				LinkedList
+	
+	
+List:
+ArrayList:
+allows duplicate element
+stores data in inseretion order..
+iterable
+susbcribtable..
+			
+
+
 	
 
 

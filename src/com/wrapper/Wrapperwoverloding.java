@@ -24,7 +24,7 @@ public class Wrapperwoverloding {
 		
 		Wrapperwoverloding wo = new Wrapperwoverloding();
 		//wo.demo(100, 200);
-		//wo.demo(new Integer(100), new Integer(200));
+		wo.demo(new Integer(100), new Integer(200));
 		
 		
 		
