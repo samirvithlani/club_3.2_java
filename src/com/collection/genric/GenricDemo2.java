@@ -6,6 +6,7 @@ public class GenricDemo2<T extends Number> {
 		
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println(a.intValue()*b.intValue());
 	}
 
 	public static void main(String[] args) {
